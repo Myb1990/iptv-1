@@ -5035,3 +5035,8 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/210503.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/210502.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Monsoon " tvg-logo="https://image.tmdb.org/t/p/original/xIKVeH1iAKJOYYh9lvObD3hYIaf.jpg" group-title="VOD English",EN: Monsoon 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/210501.mkv
+#EXTM3U
+#EXT-X-VERSION:3
+## [ FirePlayer ] by Neron (c) 2018~ | firevideoplayer.com | Skype : neronsilence ##
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3500000,RESOLUTION=1280x720,NAME="720p",CODECS="avc1.4D401F,mp4a.40.2"
+https://hlspanel.xyz/m3/ZTE4MEZNOFdvWS9Pd3k4VUN2cWU4c2M4S0dsTWdWSTJXdEdkM2szVmV3UWlXQW9oY01NaUVTSTgxeS9ucXdabnB6YlE2K0xkMTBaWW90S3I3OGFBVVlKb1F2RXU0Smx6NUdmdFhWQmY5dnJUOFpQWVU1ZytFdDk4RkZpelFacWZaeVlzdzhxeTErWFd1bjNqUTM5MW9IaWUrVW8yY2NrTzZ0YXJhckZjWG05cEZGdXZhRG9GaVNmY1MyS2NWNiszQ1BpcGhmekNzSlhBZ042YnorMmg3SXNsQ1JVUFgrZVBRM0YrREdsazJlTDd5WkM0VjJKbWVIbXY0VnoxRDh5RXpoek8zaGVRT3paM0VRVTNXNlh6SEc5QjI1bFpORHJKWmJtRVhBZGROdm89
